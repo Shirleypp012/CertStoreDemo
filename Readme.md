@@ -1,7 +1,7 @@
 这是一个可以直接运行的数字证书程序exe
 克隆该项目后打开文件夹可以先把pfx文件删除
 （因为这是我运行exe之后的产物懒得删了）
-image.png
+<img width="455" height="267" alt="图片" src="https://github.com/user-attachments/assets/e2ff6b1e-f936-4ccf-84b5-c4a146a32dd0" />
 
 
 CertStoreDemo (C# 数字证书与 PFX 操作演示)

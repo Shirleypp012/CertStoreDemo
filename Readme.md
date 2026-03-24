@@ -47,14 +47,14 @@ dotnet run
 安全性：⚠️ 请勿在生产环境中使用此测试证书。它仅用于开发演示，可能没有设置强密码或已过期。
 密码：如果程序运行时提示输入密码，请检查 Program.cs 中的硬编码密码，或在控制台输入测试密码（通常是 123456 或空，具体视代码而定）。
 
-📂 项目结构
+## 📂 项目结构
 
 CertStoreDemo/
-├── Program.cs                  # 主程序逻辑：加载 PFX，打印证书信息
-├── CertStoreDemo.exe           # 编译后的可执行文件
-├── CursorCertDemo.pfx          # 测试用的数字证书文件 (含私钥)
-├── CertStoreDemo.csproj        # 项目配置文件
-└── README.md                   # 本说明文档
+├── Program.cs # 主程序逻辑：加载 PFX，打印证书信息
+├── CertStoreDemo.exe # 编译后的可执行文件
+├── CursorCertDemo.pfx # 测试用的数字证书文件 (含私钥)
+├── CertStoreDemo.csproj # 项目配置文件
+└── README.md # 本说明文档
 
 🔍 核心代码逻辑简述
 
